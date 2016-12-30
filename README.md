@@ -1,6 +1,6 @@
 # Perceptron network
 
-An one-layer perceptron network made for educational purposes.
+An one-layer perceptron network made for learning.
 
 ## Getting Started
 
